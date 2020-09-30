@@ -9,42 +9,43 @@
 </details>
 
 <details>
-<summary><code>make giladas-fiuba</code></summary>
+<summary><code>make repos-fiuba</code></summary>
 
 <div class="highlight highlight-zsh">
 <pre>
 
-                                                              +------------+     +-----------+
-                                                              | FIUBA-Plan | --- | FIUBA-Map |
-                                                              +------------+     +-----------+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - +---------------------------------------------+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - | Giladas de FIUBA que me gusta como quedaron |
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - +---------------------------------------------+
 
-    +-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
-    |            Teoría de Lenguaje             |     |        Algoritmos y Programación III         |     |        Teoría de Algoritmos        |
-    |           (Proyecto Integrador)           | --> | (Rejunte de todos los finales desde el 2017) | --> |      (Programación dinámica)       |
-    +-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
-                                                                                                                            |
-                                                                                                                            |
-    +-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
-    |                Física II A                |     |             Matemática Discreta              |     |    Algoritmos y Programación II    |
-    |           (PDF bien armado...)            | --> |          (Demostraciones de final)           | --> | (Explicación División y Conquista) |
-    +-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
-                         |
-                         |
-    +-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
-    |         Estructura del Computador         |     |            Organización de Datos             |     |        Sistemas Operativos         |
-    | (Herramienta para estudiar para el final) |     |                    (TPs)                     |     |       (Resumen para parcial)       |
-    |                                           | --> |      (Ejercicios de parcial resueltos)       | --> |                                    |
-    +-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
-                                                                                                                            |
-                                                                                                                            |
-                                                                                                           +------------------------------------+
-                                                                                                           |           ¿Ya me recibí?           |
-                                                                                                           +------------------------------------+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- +------------+     +-----------+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- | [FIUBA-Plan][1] | --- | [FIUBA-Map][2] |
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- +------------+     +-----------+
+
++-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
+|                Física II A                |     |             Matemática Discreta              |     |    Algoritmos y Programación II    |
+|           [(PDF bien armado...)][3]            | --> |          [(Demostraciones de final)][4]           | --> | [(Explicación División y Conquista)][5] |
++-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
+
++-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
+|            Teoría de Algoritmos           |     |        Algoritmos y Programación III         |     |        Teoría de Lenguaje          |
+|           [(Programación Dinámica)][6]         | --> | [(Rejunte de todos los finales desde el 2017)][7] | --> |       [(Proyecto Integrador)][8]        |
++-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
+
++-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
+|         Estructura del Computador         |     |            Organización de Datos             |     |        Sistemas Operativos         |
+| [(Herramienta para estudiar para el final)][9] |     |                    [(TPs)][10]                     |     |       [(Resumen para parcial)][12]       |
+|                                           | --> |      [(Ejercicios de parcial resueltos)][11]       | --> |                                    |
++-------------------------------------------+     +----------------------------------------------+     +------------------------------------+
+
+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - +---------------------------------------------+
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - |                 [¿Ya me recibí?][13]              |
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- - +---------------------------------------------+
 </pre>
 </div>
 
 </details>
-
 
 <!--
 https://dot-to-ascii.ggerganov.com/
@@ -67,6 +68,18 @@ digraph {
 
     "¿Ya me recibí?"
 }
-
 -->
 
+[1]: https://fdelmazo.github.io/FIUBA-Plan/
+[2]: https://fdelmazo.github.io/FIUBA-Map/
+[3]: https://gist.github.com/FdelMazo/a47f318d3111aaa63d09f445b5022024
+[4]: https://gist.github.com/FdelMazo/e00d69fcfeaa2fe66a32cd44cf6d2672
+[5]: https://gist.github.com/FdelMazo/838af5060c85b28e381ac21c02fbba08
+[6]: https://gist.github.com/FdelMazo/691bdff48a9a4ecbc5d768b45b048b93
+[7]: https://github.com/FdelMazo/7507-Algo3
+[8]: https://github.com/FdelMazo/cl-aristid
+[9]: https://fdelmazo.github.io/figure-610/
+[10]: https://fdelmazo.github.io/7506-Datos/
+[11]: https://crossnox.github.io/7506-OD2/
+[12]: https://gist.github.com/FdelMazo/67b0a8e1be52e8f0045636ea15449d41
+[13]: https://fdelmazo.github.io/yamerecibi/
