@@ -1,2 +1,11 @@
-- name: Bobby Fissue
-  uses: FdelMazo/BobbyFissue@0.1
+name: "UpdateBoard"
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  move:
+    steps:
+      - name: Bobby Fissue
+        uses: FdelMazo/BobbyFissue@0.1
