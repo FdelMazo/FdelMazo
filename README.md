@@ -1,5 +1,3 @@
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/fdelmazo)
-
 <details>
 <summary><code>make batman</code></summary>
 
@@ -72,6 +70,17 @@ digraph {
     "¿Ya me recibí?"
 }
 -->
+
+
+<details>
+<summary><code>make shill</code></summary>
+
+<br>
+    
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_5.svg)](https://cafecito.app/fdelmazo)
+
+</details>
+
 
 [0]: https://github.com/FdelMazo?tab=repositories&q=fiuba
 [1]: https://fdelmazo.github.io/FIUBA-Plan/
