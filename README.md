@@ -1,3 +1,5 @@
+> Any inaccuracies in this repository may be explained by the fact that it has been prepared with the help of a computer.
+
 <details>
 <summary><code>make batman</code></summary>
 
