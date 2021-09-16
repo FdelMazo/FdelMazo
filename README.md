@@ -1,7 +1,15 @@
 > Any inaccuracies in this repository may be explained by the fact that it has been prepared with the help of a computer.
 
+<details>
+<summary><code>finger delmazo</code></summary>
+
 <div class="highlight highlight-zsh">
 <pre>
+Login: delmazo        			Name: Federico del Mazo
+Directory: /home/delmazo            	Shell: /usr/bin/zsh
+On since Monday April 14 11:30 (-03) on tty7 from :0
+   24 hours idle
+
 <br>
 
 -- -- -- -- -- -- --    +---------------+     +------------------+     +---------------+    -- -- -- -- -- -- --
@@ -16,6 +24,7 @@
 
 </pre>
 </div>
+</details>
 
 <details>
 <summary><code>make batman</code></summary>
