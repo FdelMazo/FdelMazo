@@ -50,7 +50,7 @@ digraph {
 
 
 <details>
-<summary><code>make shill</code></summary>
+<summary><code>shill</code></summary>
 <br>
     
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/fdelmazo)
