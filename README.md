@@ -48,11 +48,22 @@ digraph {
 }
 -->
 
+<details>
+<summary><code>deadman</code></summary>
+<br>
+
+https://user-images.githubusercontent.com/25667102/143785814-e5190cf8-54e9-4dd8-bda6-50c5399fa00f.mp4
+
+https://user-images.githubusercontent.com/25667102/143785816-2adb948d-d0bb-4491-b622-6839af9c6d86.mp4
+
+https://user-images.githubusercontent.com/25667102/143785817-be653b3d-3ed6-4fc1-bcb6-8b710e52fcc7.mp4
+	
+</details>
 
 <details>
 <summary><code>shill</code></summary>
 <br>
-    
+
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/fdelmazo)
 </details>
 
