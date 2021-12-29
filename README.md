@@ -1,3 +1,5 @@
+<img align="right" width="80" src="https://github.githubassets.com/images/mona-loading-dimmed.gif"/>
+
 > Any inaccuracies in this repository may be explained by the fact that it has been prepared with the help of a computer.
 
 <details>
