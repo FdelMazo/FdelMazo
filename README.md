@@ -35,7 +35,7 @@ On since Monday April 14 1997 on tty7 from :0
 
 <center>
 <a href="http://fdelmazo.github.io/">
-<img src="https://github.com/fdelmazo/fdelmazo/raw/master/batman.gif" />
+<img src="https://github.com/fdelmazo/fdelmazo/raw/master/batman.gif" width="700px" />
 </a>
 </center>
 </details>
@@ -63,13 +63,6 @@ https://user-images.githubusercontent.com/25667102/143785816-2adb948d-d0bb-4491-
 
 https://user-images.githubusercontent.com/25667102/143785817-be653b3d-3ed6-4fc1-bcb6-8b710e52fcc7.mp4
 	
-</details>
-
-<details>
-<summary><code>shill</code></summary>
-<br>
-
-[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_3.svg)](https://cafecito.app/fdelmazo)
 </details>
 
 [FIUBA-Repos]: https://github.com/FdelMazo?tab=repositories&q=fiuba
