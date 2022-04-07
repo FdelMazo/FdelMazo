@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/25667102/143785817-be653b3d-3ed6-4fc1-
 	
 </details>
 
-[FIUBA-Repos]: https://github.com/FdelMazo?tab=repositories&q=fiuba
+[FIUBA-Repos]: https://github.com/FdelMazo?tab=repositories&q=topic%3Afiuba
 [FIUBA-Gists]: https://gist.github.com/search?q=user%3Afdelmazo+%23fiuba
 [Portfolio]: https://fede.dm/
 [CV]: https://cv.fede.dm/
