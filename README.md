@@ -1,4 +1,4 @@
-<a target="_blank" href="https://gist.github.com/FdelMazo/1b62800a14c66ef11cba6a0bffb335b8"><img align="right" width="50" src="https://raw.githubusercontent.com/FdelMazo/FdelMazo/master/deadmona.gif"/></a>
+<a target="_blank" href="https://gist.github.com/FdelMazo/1b62800a14c66ef11cba6a0bffb335b8"><img align="right" width="80" src="https://raw.githubusercontent.com/FdelMazo/FdelMazo/master/deadmona.gif"/></a>
 
 > Any inaccuracies in this repository may be explained by the fact that it has been prepared with the help of a computer.
 
