@@ -1,4 +1,4 @@
-<img align="right" width="50" src="https://github.githubassets.com/images/mona-loading-dimmed.gif"/>
+<a target="_blank" href="https://gist.github.com/FdelMazo/1b62800a14c66ef11cba6a0bffb335b8"><img align="right" width="50" src="https://github.githubassets.com/images/mona-loading-dimmed.gif"/></a>
 
 > Any inaccuracies in this repository may be explained by the fact that it has been prepared with the help of a computer.
 
@@ -46,18 +46,6 @@ digraph {
     "[FIUBA-Repos]" -- "[¿Ya Me Recibí?]" -- "[FIUBA-Gists]" 
 }
 -->
-
-<details>
-<summary><code>deadman</code></summary>
-<br>
-
-https://user-images.githubusercontent.com/25667102/143785814-e5190cf8-54e9-4dd8-bda6-50c5399fa00f.mp4
-
-https://user-images.githubusercontent.com/25667102/143785816-2adb948d-d0bb-4491-b622-6839af9c6d86.mp4
-
-https://user-images.githubusercontent.com/25667102/143785817-be653b3d-3ed6-4fc1-bcb6-8b710e52fcc7.mp4
-	
-</details>
 
 [FIUBA-Repos]: https://github.com/FdelMazo?tab=repositories&q=topic%3Afiuba
 [FIUBA-Gists]: https://gist.github.com/search?q=user%3Afdelmazo+%23fiuba
