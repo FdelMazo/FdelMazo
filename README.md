@@ -7,8 +7,8 @@
 
 <div class="highlight highlight-zsh">
 <pre>
-Login: delmazo        			Name: Federico del Mazo
-Directory: /home/delmazo            	Shell: /usr/bin/zsh
+Login: delmazo					Name: Federico del Mazo
+Directory: /home/delmazo		Shell: /usr/bin/zsh
 On since Monday April 14 1997 on tty7 from :0
 
 <br>
